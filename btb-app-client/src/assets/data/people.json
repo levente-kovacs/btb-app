@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Ádám",
+    "name": "Ádám",
+    "age": "10",
+    "sonBirthAt": "10",
+    "biblePassages": "10",
+    "bibleVerses": "10"
+
+  },
+  {
+    "title": "Séth",
+    "name": "Séth",
+    "age": "10",
+    "sonBirthAt": "10",
+    "biblePassages": "10",
+    "bibleVerses": "10"
+
+  },
+  {
+    "title": "Hám",
+    "name": "Hám",
+    "age": "10",
+    "sonBirthAt": "10",
+    "biblePassages": "10",
+    "bibleVerses": "10"
+
+  }
+]
